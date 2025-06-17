@@ -1,6 +1,6 @@
 # Site Profissional - Psicóloga Cecília Costa
 
-Este projeto é um site institucional desenvolvido para a psicóloga Cecília Costa. O objetivo é apresentar sua atuação clínica, oferecer informações de contato e depoimentos de pacientes, promovendo um espaço acolhedor e profissional para quem busca apoio psicológico.
+Este projeto é um site institucional ficiticio desenvolvido para uma profissional de psicologia. O objetivo é apresentar sua atuação clínica, oferecer informações de contato e depoimentos de pacientes, promovendo um espaço acolhedor e profissional para quem busca apoio psicológico.
 
 ## 💻 Tecnologias Utilizadas
 
