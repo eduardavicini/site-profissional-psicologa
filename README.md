@@ -17,12 +17,6 @@ Este projeto é um site institucional ficiticio desenvolvido para uma profission
 - Design responsivo, adaptado para dispositivos móveis  
 - Estilo clean e acolhedor, alinhado à identidade da psicóloga
 
-## 📸 Prévia do Projeto
-
-![Imagem do site](https://images.unsplash.com/photo-1580894732444-8ecded7900cd?q=80&w=870&auto=format&fit=crop)
-
-> *Imagem ilustrativa da seção "Sobre Mim"*
-
 ## 🚀 Como executar localmente
 
 1. Clone o repositório:
