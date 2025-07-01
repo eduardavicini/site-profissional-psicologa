@@ -1,4 +1,4 @@
-# Site Profissional - Psicóloga Cecilia Costa| HTML, CSS e TypeScript 💼
+# Site Profissional - Psicóloga Cecilia Costa | HTML, CSS e TypeScript 💼
 
 Este é um projeto de site pessoal/profissional desenvolvido com **HTML5**, **CSS3** e **TypeScript**, com o objetivo de praticar boas práticas de estrutura, responsividade e organização de código. Ele serve como base para um portfólio online.
 
